@@ -1,0 +1,24 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "My Fisrt Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\\"Error: no test specified\\\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abvgzxn/hexlet-hello-world.git"
+  },
+  "keywords": [
+    "\"hello-world\"",
+    "\"tutorial\"",
+    "\"learning\""
+  ],
+  "author": "\"Yoshie tryonce499@gmail.com\"",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abvgzxn/hexlet-hello-world/issues"
+  },
+  "homepage": "https://github.com/abvgzxn/hexlet-hello-world#readme"
+}
