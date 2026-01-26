@@ -5,6 +5,9 @@
   "description": "My First Project",
   "main": "index.js",
   "scripts": {
+	"format": "prettier --write .",
+	"format:check": "prettier --check ."
+  },
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,5 +28,8 @@
   "homepage": "https://github.com/abvgzxn/hexlet-hello-world#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.1"
   }
 }
