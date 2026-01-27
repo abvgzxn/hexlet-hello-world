@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "My First Project",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
 	"format": "prettier --write .",
 	"format:check": "prettier --check ."
